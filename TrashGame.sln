@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrashGame", "TrashGame.csproj", "{9EA629FE-8A5A-E850-D248-2912076C377A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrashGame.Plugins", "TrashGame.Plugins.csproj", "{C4E289D8-D195-E174-BCDC-0405DA1BE204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrashGame.Editor.Plugins", "TrashGame.Editor.Plugins.csproj", "{E314281A-92DA-8FA8-F909-7F18B5AE552A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA629FE-8A5A-E850-D248-2912076C377A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA629FE-8A5A-E850-D248-2912076C377A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA629FE-8A5A-E850-D248-2912076C377A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA629FE-8A5A-E850-D248-2912076C377A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E289D8-D195-E174-BCDC-0405DA1BE204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E289D8-D195-E174-BCDC-0405DA1BE204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E289D8-D195-E174-BCDC-0405DA1BE204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E289D8-D195-E174-BCDC-0405DA1BE204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E314281A-92DA-8FA8-F909-7F18B5AE552A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E314281A-92DA-8FA8-F909-7F18B5AE552A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E314281A-92DA-8FA8-F909-7F18B5AE552A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E314281A-92DA-8FA8-F909-7F18B5AE552A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
